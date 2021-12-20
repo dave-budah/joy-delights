@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{all, bootstrap-icons, c688e22e63, conflict-detection, swiper}" />
+  </component>
+</project>
