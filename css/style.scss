@@ -64,14 +64,15 @@ section {
     margin-top: 1rem;
     display: inline-block;
     border: $border;
-    color: $secondary-brown;
-    background: none;
+    color: #fff;
+    background: $primary-brown;
     font-size: 1.7rem;
     padding: 1rem 3rem;
 
     &:hover {
-        background: $primary-brown;
-        color: $primary-grey;
+        background: $secondary-brown;
+        //color: $primary-grey;
+
     }
 }
 // Header

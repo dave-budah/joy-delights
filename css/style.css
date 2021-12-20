@@ -52,14 +52,13 @@ section {
   margin-top: 1rem;
   display: inline-block;
   border: 0.2rem solid #712e1e;
-  color: #e59a59;
-  background: none;
+  color: #fff;
+  background: #712e1e;
   font-size: 1.7rem;
   padding: 1rem 3rem;
 }
 .btn:hover {
-  background: #712e1e;
-  color: #888870;
+  background: #e59a59;
 }
 
 .header {
